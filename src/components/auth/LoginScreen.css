@@ -1,0 +1,12 @@
+.center {
+  text-align: center;
+}
+
+.login {
+  max-width: 300px;
+	margin: 35px auto;
+}
+
+.login-form{
+  padding:0px 25px;
+}
